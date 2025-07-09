@@ -31,7 +31,7 @@ Historique des joueurs par saison
 -> Un dictionnaire de données a été rédigé pour documenter précisément chaque variable.
 
 - Démarche analytique
-- 
+
 Partie 1 – Stephen Curry
 Analyse de son évolution saison après saison : scoring, efficacité au tir, influence sur les résultats de son équipe.
 
